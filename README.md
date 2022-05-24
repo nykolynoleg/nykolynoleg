@@ -4,4 +4,4 @@
 - 🌱 I’m currently learning **Rust**, **Substrate**, **Polkadot**, Solana, Blockchain Engineering and CQRS / Event Driven Architectures
 - 👯 I’m looking to collaborate on projects based on Substrate, Solana and Solidity
 - 💬 Don't be shy, ask me about *anything*!
-- 📫 For anything else check out my [Linktree](https://linktr.ee/lgnk)
+- 📫 For anything else there's [Linktree](https://linktr.ee/lgnk)
