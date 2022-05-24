@@ -1,7 +1,7 @@
-## gm frens 🫡🦍
+## gm frens 🦍🫡
 
-- 🔭 I’m currently building a next-gen low-code automation platform with an amazing team at *820 / Eight Twenty*
-- 🌱 I’m currently learning Rust, Substrate, Polkadot, Solana, Blockchain Engineering and CQRS / Event Driven Architectures
+- 🔭 I’m currently building the next-gen **low-code automation platform** with an amazing team at *820 / Eight Twenty*
+- 🌱 I’m currently learning **Rust**, **Substrate**, **Polkadot**, Solana, Blockchain Engineering and CQRS / Event Driven Architectures
 - 👯 I’m looking to collaborate on projects based on Substrate, Solana and Solidity
-- 💬 Ask me about anything
-- 📫 Want to get in touch? Check out my [Linktree](https://linktr.ee/lgnk)
+- 💬 Ask me about *anything*
+- 📫 Let's get in touch! Here's my [Linktree](https://linktr.ee/lgnk)
